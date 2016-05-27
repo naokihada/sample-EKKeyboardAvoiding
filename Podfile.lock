@@ -1,0 +1,12 @@
+PODS:
+  - EKKeyboardAvoiding (2.0)
+
+DEPENDENCIES:
+  - EKKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  EKKeyboardAvoiding: 15ed09e96eb97594991665316eef43340936bf74
+
+PODFILE CHECKSUM: bcfccc1c05aa8ebcfe30a5b786648ca91bb26bd7
+
+COCOAPODS: 1.0.0
